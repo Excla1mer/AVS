@@ -41,3 +41,5 @@ echo " 	SWAP всего - $SWAP_TOTAL"
 echo "	SWAP доступно - $SWAP_FREE"
 echo "Сетевые интерфейсы:"
 echo "Hello Sergey!"
+echo "Hello World!"
+
